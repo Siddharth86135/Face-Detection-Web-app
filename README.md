@@ -1,1 +1,2 @@
-# Face-Detection-Web-app
+# Face-Detection
+Face detection streamlit app using cascade classifiers
